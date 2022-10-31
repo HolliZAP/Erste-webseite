@@ -38,5 +38,5 @@
     align-items: center;
 }
 @media (max-width: 576px){
-  .navigation{max-width: 100%;}  
+  .navigation{width:100%;}  
 }
