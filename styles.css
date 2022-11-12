@@ -276,7 +276,8 @@ footer {
 
   footer{ padding: 48px 10px;}
 
-  h3{max-width: 360px;}
+  h3{max-width: 360px;
+  font-size: 40px;}
 
   .footer__links{
     padding: 3px  ;
